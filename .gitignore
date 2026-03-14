@@ -1,0 +1,9 @@
+# Arduino
+.pio/
+.vscode/
+build/
+*.o
+*.elf
+*.hex
+*.bin
+.DS_Store
